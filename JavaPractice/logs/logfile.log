@@ -1,0 +1,11 @@
+INFO  | 2021-12-26 20:04:13 | [main] Javapractice.App (App.java:17) - Hello world will be printed on info
+WARN  | 2021-12-26 20:04:13 | [main] Javapractice.App (App.java:18) - Hello world will be printed on warn
+ERROR | 2021-12-26 20:04:13 | [main] Javapractice.App (App.java:19) - Hello world will be printed on error
+FATAL | 2021-12-26 20:04:13 | [main] Javapractice.App (App.java:20) - Hello world will be printed on fatal
+INFO  | 2021-12-26 20:04:13 | [main] Javapractice.App (App.java:21) - Appending string: Hello world.
+DEBUG | 2021-12-26 20:04:40 | [main] Javapractice.App (App.java:16) - Hello world will be printed on debug
+INFO  | 2021-12-26 20:04:40 | [main] Javapractice.App (App.java:17) - Hello world will be printed on info
+WARN  | 2021-12-26 20:04:40 | [main] Javapractice.App (App.java:18) - Hello world will be printed on warn
+ERROR | 2021-12-26 20:04:40 | [main] Javapractice.App (App.java:19) - Hello world will be printed on error
+FATAL | 2021-12-26 20:04:40 | [main] Javapractice.App (App.java:20) - Hello world will be printed on fatal
+INFO  | 2021-12-26 20:04:40 | [main] Javapractice.App (App.java:21) - Appending string: Hello world.
